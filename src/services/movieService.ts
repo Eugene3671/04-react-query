@@ -1,5 +1,5 @@
 import axios from "axios";
-import type Movie from "../types/movie";
+import type { Movie } from "../types/movie";
 
 const myKey: string = import.meta.env.VITE_API_KEY;
 
